@@ -1,4 +1,3 @@
-console.log(products[3]);
 var products = {
   
   "Regular Flavors": [
