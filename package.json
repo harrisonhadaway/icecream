@@ -1,0 +1,23 @@
+{
+  "name": "icecream-f17",
+  "version": "1.0.0",
+  "description": "Create a webpage that displays the menu for an ice cream shop.",
+  "main": "app/index.js",
+  "dependencies": {
+    "express": "^4.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisonhadaway/icecream-f17.git"
+  },
+  "author": "HH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisonhadaway/icecream-f17/issues"
+  },
+  "homepage": "https://github.com/harrisonhadaway/icecream-f17#readme"
+}
